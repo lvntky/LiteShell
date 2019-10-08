@@ -14,7 +14,7 @@
 
 //Function Declarations for builtin shell comands
 
-int lsh_cd(char **args);
-int lsh_help(char ** args);
-int lsh_exit(char **args);
+int liteshell_cd(char **args);
+int liteshell_help(char ** args);
+int liteshell_exit(char **args);
 

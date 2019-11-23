@@ -1,10 +1,3 @@
- _     _ _       _____ _          _ _ 
-| |   (_) |     /  ___| |        | | |
-| |    _| |_ ___\ `--.| |__   ___| | |
-| |   | | __/ _ \`--. \ '_ \ / _ \ | |
-| |___| | ||  __/\__/ / | | |  __/ | |
-\_____/_|\__\___\____/|_| |_|\___|_|_|
-
 ![build](https://img.shields.io/appveyor/ci/gruntjs/grunt.svg)   ![license]( https://img.shields.io/apm/l/vim-mode.svg) 
 
 # LiteShell

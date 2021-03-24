@@ -11,7 +11,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
-#include "image_print.h"
+#include "include/image_print.h"
 #define MAX_LEN 128
 
 //Function Declarations for builtin shell comands

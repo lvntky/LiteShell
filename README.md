@@ -1,30 +1,31 @@
-![build](https://img.shields.io/appveyor/ci/gruntjs/grunt.svg)   ![license]( https://img.shields.io/apm/l/vim-mode.svg) 
-
 # LiteShell
+<center>
+![linux](https://media.giphy.com/media/3og0ICG4WxdKSRzE3K/giphy.gif)
+</center>
 
-Lite Shell is a small sized and fast shell for Linux and Mac 0S users.
+LiteShell is a modern and small sized shell for Linux users.
 
-## Technologies
+## More About LiteShell 
+While I'm reading the amazing tutorial of ![Write a Shell In C](https://brennan.io/2015/01/16/write-a-shell-in-c/) of Stephen Brennan I decieded to implement this approach on rust-lang and build a tiny shell for Linux.
 
-* C
+Rust is realesed in 2010 so it's quite new but gives as many opportunuties in system programming/low-level programming side.
+
+SO basically this is a fun project, feel free to fork&PR or download and use/test it!
 
 ## Enviroment
 
-Lite Shell was build and tested in the Manjaro Linux x86_64 and compiled with GCC version 9.1.0
+LiteShell was build and tested in the Manjaro Linux x86_64 and Arch Linux x86_64.
 
 ## Installation
 
-Use git clone to install SkyLark
-
 ```bash
 
-git clone https://github.com/lvntky/lsh.git
+cargo package will be added soon.
 
 ```
 
 ## Contributing
-Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
-
+Pull requests are welcome!
 ## License
 
 [MIT](https://github.com/lvntky/lsh/blob/master/LICENSE)
